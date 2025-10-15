@@ -1,0 +1,56 @@
+/* ============================================ */
+/* AI-Generated Styles from Screenshots */
+/* Sections: 5 */
+/* ============================================ */
+
+/* Section 1: section-1 */
+```plaintext
+w-full h-fit py-30 lg:py-0 lg:h-svh flex items-center bg-rose-100
+w-content-width mx-auto flex flex-col lg:flex-row gap-13 lg:gap-15 items-center
+w-full lg:w-1/2
+md:gap-1 flex flex-col gap-3 lg:gap-3
+text-7xl 2xl:text-8xl font-medium text-center lg:text-left
+```
+
+/* Section 2: section-2 */
+```plaintext
+bg-rose-100 text-gray-800 py-30
+w-full
+mx-auto flex flex-col gap-6 items-center
+text-2xl lg:text-5xl font-medium text-center leading-[1.175]
+```
+
+/* Section 3: section-3 */
+```plaintext
+w-full py-12 bg-rose-100 text-gray-800
+mx-auto flex flex-col gap-6
+md:gap-1 items-center text-center
+flex flex-col gap-3 lg:gap-1
+text-5xl font-medium text-center
+text-lg leading-5 text-center lg:max-w-3/5
+grid grid-cols-1 gap-6 lg:grid-cols-3
+```
+
+/* Section 4: section-4 */
+```plaintext
+w-full py-30 bg-rose-100 text-gray-800
+w-content-width mx-auto
+w-full card p-6 lg:p-0 py-20 lg:py-30 rounded-theme-capped flex items-center justify-center
+w-full lg:w-1/2
+flex flex-col gap-4 items-center text-center
+w-full flex flex-col gap-1 items-center
+px-3 py-1 text-sm rounded-theme card text-foreground inline-flex items-center gap-2 w-fit
+text-4xl lg:text-5xl font-medium leading-[1.175] text-balance w-full lg:w-8/10
+```
+
+/* Section 5: footer */
+```plaintext
+w-full flex justify-center relative overflow-hidden bg-gray-900 text-white rounded-t-lg pt-0 pb-15
+mx-auto flex flex-col relative z-10 gap-0
+w-full
+w-full grid gap-10 mb-10 grid-cols-1 lg:grid-cols-2
+flex items-start flex-col gap-4
+flex items-center gap-2 text-base
+h-6 w-auto 
+relative inline-block bg-transparent border-none p-0 cursor-pointer after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-full after:h-[1px] after:bg-current after:scale-x-0 after:origin-right after:transition-transform after:duration-300 hover:after:scale-x-100 hover:after:origin-left disabled:cursor-not-allowed disabled:opacity-50 disabled:hover:after:scale-x-0 font-medium text-base
+```
